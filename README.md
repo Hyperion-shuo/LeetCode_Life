@@ -7,7 +7,12 @@
 - 数组，队列，栈
 
     [189 Rotate Array ](https://github.com/Hyperion-shuo/LeetCode_Life/blob/master/2020_09_06/189%20%E6%97%8B%E8%BD%AC%E6%95%B0%E7%BB%84.md)
-    [622 Design Circular Queue]()
+    
+    [622 Design Circular Queue](https://github.com/Hyperion-shuo/LeetCode_Life/blob/master/2020_09_08/622%20Desigh%20Circular%20Queue.md)
+    
+    [622 Design Circular DeQueue](https://github.com/Hyperion-shuo/LeetCode_Life/blob/master/2020_09_08/622%20Desigh%20Circular%20Queue.md)
+    
+    [84 Largest Rectangle in Histogram](https://github.com/Hyperion-shuo/LeetCode_Life/blob/master/2020_09_08/84%20Largest%20Rectangle%20in%20Histogram.md)
 
 - 链表
 - 树与递归
