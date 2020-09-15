@@ -17,14 +17,29 @@
     [394 Decoding String](https://github.com/Hyperion-shuo/LeetCode_Life/blob/master/2020_09_10/394%20Decoding%20String.md)
     
     [42 Trapping Rain Water](https://github.com/Hyperion-shuo/LeetCode_Life/blob/master/2020_09_09/42.%20Trapping%20Rain%20Water.md)
+    
+    [155 Min Stack](https://github.com/Hyperion-shuo/LeetCode_Life/blob/master/2020_09_11/155%20Min%20Stack.md)
 
 - 链表
+
+    [206 Reverse Linked List](https://github.com/Hyperion-shuo/LeetCode_Life/blob/master/2020_09_12/206%20Reverse%20Linked%20List.md)
+    
+    [2 Add Two Numbers](https://github.com/Hyperion-shuo/LeetCode_Life/blob/master/2020_09_13/2%20Add%20Two%20Numbers.md)
+    
+    [21 Merge Two Sorted Lists](https://github.com/Hyperion-shuo/LeetCode_Life/blob/master/2020_09_14/21%20Merge%20Two%20Sorted%20Lists.md)
+    
+    [24 Swap Nodes in Pairs](https://github.com/Hyperion-shuo/LeetCode_Life/blob/master/2020_09_14/24%20Swap%20Nodes%20in%20Pairs.md)
+    
+    [23 Merge k Sorted Lists]()
 - 树
 - 递归
 - 堆
 - 哈希表
 - 排序
 - 双指针
+    [19 Remove Nth Node From End of List](https://github.com/Hyperion-shuo/LeetCode_Life/blob/master/2020_09_14/19%20Remove%20Nth%20Node%20From%20End%20of%20List.md)
+    
+    [141 Linked List Cycle]()
 - 分治
 - 动态规划
     
