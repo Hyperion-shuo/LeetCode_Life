@@ -30,7 +30,7 @@
     
     [24 Swap Nodes in Pairs](https://github.com/Hyperion-shuo/LeetCode_Life/blob/master/2020_09_14/24%20Swap%20Nodes%20in%20Pairs.md)
     
-    [23 Merge k Sorted Lists]()
+    [23 Merge k Sorted Lists](https://github.com/Hyperion-shuo/LeetCode_Life/blob/master/2020_09_15/23%20Merge%20k%20Sorted%20Lists.md)
 - 树
 - 递归
 - 堆
@@ -39,7 +39,7 @@
 - 双指针
     [19 Remove Nth Node From End of List](https://github.com/Hyperion-shuo/LeetCode_Life/blob/master/2020_09_14/19%20Remove%20Nth%20Node%20From%20End%20of%20List.md)
     
-    [141 Linked List Cycle]()
+    [141 Linked List Cycle](https://github.com/Hyperion-shuo/LeetCode_Life/blob/master/2020_09_15/141%20Linked%20List%20Cycle.md)
 - 分治
 - 动态规划
     
