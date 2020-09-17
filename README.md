@@ -31,6 +31,8 @@
     [24 Swap Nodes in Pairs](https://github.com/Hyperion-shuo/LeetCode_Life/blob/master/2020_09_14/24%20Swap%20Nodes%20in%20Pairs.md)
     
     [23 Merge k Sorted Lists](https://github.com/Hyperion-shuo/LeetCode_Life/blob/master/2020_09_15/23%20Merge%20k%20Sorted%20Lists.md)
+    
+    [25 Reverse Nodes in k-Group]()
 - 树
 - 递归
 - 堆
