@@ -32,16 +32,28 @@
     
     [23 Merge k Sorted Lists](https://github.com/Hyperion-shuo/LeetCode_Life/blob/master/2020_09_15/23%20Merge%20k%20Sorted%20Lists.md)
     
-    [25 Reverse Nodes in k-Group]()
+    [82 Remove Duplicates from Sorted List 2](https://github.com/Hyperion-shuo/LeetCode_Life/blob/master/2020_09_17/82%20Remove%20Duplicates%20from%20Sorted%20List%20II.md)
+    
 - 树
-- 递归
 - 堆
-- 哈希表
+
+    [25 Reverse Nodes in k-Group](https://github.com/Hyperion-shuo/LeetCode_Life/blob/master/2020_09_16/25%20Reverse%20Nodes%20in%20k-Group.md)
+    
+- 哈希表 
+- 回溯
+
+    [51 N-Queens]()
+
+- 递归
+
 - 排序
 - 双指针
     [19 Remove Nth Node From End of List](https://github.com/Hyperion-shuo/LeetCode_Life/blob/master/2020_09_14/19%20Remove%20Nth%20Node%20From%20End%20of%20List.md)
     
     [141 Linked List Cycle](https://github.com/Hyperion-shuo/LeetCode_Life/blob/master/2020_09_15/141%20Linked%20List%20Cycle.md)
+    
+    [61 Rotate List](https://github.com/Hyperion-shuo/LeetCode_Life/blob/master/2020_09_17/61%20Rotate%20List.md)
+    
 - 分治
 - 动态规划
     
