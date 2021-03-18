@@ -1,7 +1,7 @@
 # LeetCode_Life
 ---
 键来
----ヽ(･ω･´ﾒ)
+---
 ## Tag
 
 - 数组，队列，栈
@@ -43,11 +43,20 @@
 - 回溯
 
     [51 N-Queens]()
+    
+    [39 Combination Sum]()
+    
+    [40 Combination Sum II]()
+    
+    [46 Permutations]()
+    
+    [78 Subsets]()
 
 - 递归
 
 - 排序
 - 双指针
+
     [19 Remove Nth Node From End of List](https://github.com/Hyperion-shuo/LeetCode_Life/blob/master/2020_09_14/19%20Remove%20Nth%20Node%20From%20End%20of%20List.md)
     
     [141 Linked List Cycle](https://github.com/Hyperion-shuo/LeetCode_Life/blob/master/2020_09_15/141%20Linked%20List%20Cycle.md)
